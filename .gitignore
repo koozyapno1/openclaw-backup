@@ -1,0 +1,5 @@
+# Exclude all sensitive data
+backups/
+**/sessions/
+**/auth-profiles.json
+**/models.json
